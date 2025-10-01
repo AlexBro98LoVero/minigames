@@ -1,0 +1,32 @@
+[
+  {
+    "id": "matematica",
+    "title": "Matematica",
+    "chapters": [
+      {
+        "id": "algebra",
+        "title": "Algebra",
+        "cards": [
+          {
+            "q": "Cos'è un polinomio?",
+            "a": "Un'espressione algebrica formata da monomi sommati.",
+            "type": "open"
+          },
+          {
+            "q": "Quale formula è corretta?",
+            "a": "b² - 4ac",
+            "type": "multiple",
+            "options": ["b² + 4ac", "b² - 4ac", "2b - 4ac", "b - 4ac²"],
+            "correct": 1
+          },
+          {
+            "q": "Un quadrato ha tutti i lati uguali",
+            "a": "Vero",
+            "type": "truefalse",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  }
+]
